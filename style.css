@@ -1,0 +1,49 @@
+.body{
+    padding: 50px;
+    background-color: cornsilk;
+}
+.head{
+    background-color: grey;
+    text-align: center;
+    padding: 5px;
+}
+h2{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    line-height: 20px;
+    font-family: helvetica;
+    padding-bottom: 10px;
+}
+.tablePadding{
+    padding-left: 10%;
+}
+img{
+    border-radius: 15px;
+    width: 75%;
+    height: 250px;
+}
+td{
+    padding: 10px;
+    align-content: center;
+}
+.caption{
+    font-style: italic;
+}
+table{
+    width: 100%;
+}
+th{
+    background-color: gray;
+}
+.datarow{
+    background-color: rgb(208, 208, 208);
+}
+li{
+    line-height: 20px;
+}
+.footer{
+    background-color: rgb(171, 171, 171);
+    padding: 10px;
+}
